@@ -63,6 +63,3 @@ Working through this assignment, I started from a basic static page and layered 
 - `favicon.png` — site favicon
 - `screenshots/` — code screenshots referenced above
 
-## Live site
-
-Published with GitHub Pages: `<add your GitHub Pages URL here after publishing>`
