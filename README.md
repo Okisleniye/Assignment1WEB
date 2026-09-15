@@ -63,3 +63,4 @@ Working through this assignment, I started from a basic static page and layered 
 - `favicon.png` — site favicon
 - `screenshots/` — code screenshots referenced above
 
+file:///C:/Users/dauto/Assignment1WEB-1/assignment1WEB.html
